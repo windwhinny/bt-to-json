@@ -1,0 +1,22 @@
+{
+  "name": "bt-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "bt", "torrent"
+  ],
+  "author": "Eric Time<windwhinny@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^3.5.2",
+    "@types/iconv": "^2.1.15",
+    "@types/mocha": "^2.2.41",
+    "@types/node": "^7.0.22",
+    "chai": "^4.0.0",
+    "iconv": "^2.2.3",
+    "mocha": "^3.4.2"
+  }
+}
