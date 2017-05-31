@@ -14,3 +14,4 @@ let result;
 result = await readFromFile('test.torrent');
 result = readFromBuffer(buffer);
 ```
+
